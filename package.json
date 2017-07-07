@@ -1,0 +1,9 @@
+{
+  "name": "tmsdemo",
+  "version": "0.0.1",
+  "description": "tms",
+  "main": "index.js",
+  "repository": "https://github.com/xxn520/tmsdemo.git",
+  "author": "m2mbob",
+  "license": "MIT"
+}
